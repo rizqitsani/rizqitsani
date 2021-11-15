@@ -26,7 +26,7 @@
 <p>
 <a href="https://github.com/rizqitsani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizqitsani&count_private=true&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqitsani&count_private=true&theme=react&layout=compact&hide=assembly,pawn" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqitsani&theme=react&layout=compact&exclude_repo=fp-lbe-ncc,ppdb-jatim-2021-backup,fp-mbd,pbkk-submission&hide=c,java,c%23,css" />
 </a>
 </p>
 
