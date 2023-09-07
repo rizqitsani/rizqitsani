@@ -1,6 +1,5 @@
 ## Hi!, I'm Rizqi Tsani.
 
-- 🎓 Currently an Informatics Student at Institut Teknologi Sepuluh Nopember.
 - 💻 Enthusiastic about web development especially frontend-related works.
 
 <!-- ### 🛠 &nbsp;Tech Stack
